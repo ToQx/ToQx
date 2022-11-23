@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @ToQx
-- 👀 I’m interested in Aliens
-- 🌱 I’m currently learning Java & Python
+- Hi, I’m Hamza, or @ToQx.
+
+🏫 Currently, I am majoring Computer Science in Arab Open University.
+
+👨‍💻 I’m learning Java & Python, Mostly Python.
+
+🖱️ I play Overwatch & Apex Legends.
+
+
+
 
 <!---
 ToQx/ToQx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
