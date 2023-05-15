@@ -2,7 +2,7 @@
 
 🏫 Currently, I am majoring Computer Science in Arab Open University.
 
-👨‍💻 I’m learning Java & Python, Mostly Python.
+👨‍💻 I’m learning Java & Python, Mostly Java.
 
 🖱️ I play Overwatch & Apex Legends.
 
